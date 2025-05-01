@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: #f9f9f9;
+  background: #A6D6D6;
 }
 
 .App {
@@ -40,4 +40,14 @@ input, select {
 
 .status.error {
   color: red;
+}
+
+.h1{
+  color: #006A71;
+  background-color: #F2EFE7;
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 50px;
+  padding-top: 5px;
+  margin-top: 0;
 }
